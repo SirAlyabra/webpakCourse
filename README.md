@@ -1,2 +1,1 @@
-# webpakCourse
-this is a webpack course
+# js-portfolio
